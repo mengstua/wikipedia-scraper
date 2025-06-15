@@ -1,0 +1,9 @@
+""" Here are important python libreries to run the the project"""
+
+requirements
+
+requests==2.32.3
+python==3.12.10
+scrapy==2.13.2
+bs4==4.13.4
+
